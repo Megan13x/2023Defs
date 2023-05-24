@@ -1774,7 +1774,7 @@ QBShared.Vehicles = {
     },
 	['topfoil'] = {-- 5of5
 		['name'] = '5 of 5 Topfoil Evo',
-		['brand'] = 'Porsche',
+		['brand'] = 'Evo',
 		['model'] = 'topfoil',
 		['price'] =  350000,
 		['category'] = 'limited',
