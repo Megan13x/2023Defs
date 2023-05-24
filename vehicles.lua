@@ -1892,13 +1892,13 @@ QBShared.Vehicles = {
 		['hash'] = `is300`,
 		['shop'] = 'donation',
 	},	
-	['n350z'] = {-- Donation Shop
-		['name'] = 'Nissan 350Z',
+	['gx370z'] = {-- Donation Shop
+		['name'] = 'Nissan 370Z',
 		['brand'] = 'Nissan',
-		['model'] = 'n350z',
+		['model'] = 'gx370z',
 		['price'] = 30,
 		['category'] = 'donation',
-		['hash'] = `n350z`,
+		['hash'] = `gx370z`,
 		['shop'] = 'donation',
 	},
 	['daf'] = {-- Donation Shop
