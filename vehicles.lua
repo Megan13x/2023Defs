@@ -1773,7 +1773,7 @@ QBShared.Vehicles = {
 		['shop'] = 'luxury',
     },
 	['topfoil'] = {-- 5of5
-		['name'] = '5 of 5 Topfoil Porsche',
+		['name'] = '5 of 5 Topfoil Evo',
 		['brand'] = 'Porsche',
 		['model'] = 'topfoil',
 		['price'] =  350000,
